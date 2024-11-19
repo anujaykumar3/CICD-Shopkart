@@ -4,7 +4,7 @@
 1. Clone the project
 
 ```
-git clone https://github.com/singhsanket143/ShopCart-Ecommerce-Backend.git
+https://github.com/anujaykumar3/CICD-Shopkart
 ```
 
 2. Move into the directory of the downloaded project
